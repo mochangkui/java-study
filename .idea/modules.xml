@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/imooc-jdbc.iml" filepath="$PROJECT_DIR$/imooc-jdbc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/maven-first.iml" filepath="$PROJECT_DIR$/maven-first.iml" />
     </modules>
   </component>
 </project>
